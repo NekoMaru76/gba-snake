@@ -1,0 +1,8 @@
+{
+    "go.toolsEnvVars": {
+        "GOOS": "linux",
+        "GOARCH": "arm",
+        "GOROOT": "/home/reiyo/.cache/tinygo/goroot-76205502de271c72730d5f7305d4983b32d86be8468721c3053c2eecc0a9ee16",
+        "GOFLAGS": "-tags=gameboyadvance,arm7tdmi,baremetal,linux,arm,tinygo,math_big_pure_go,gc.conservative,scheduler.none,serial.none"
+    }
+}
